@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<!-- saved from url=(0040)https://www.wballoys.co.uk/construction/ -->
+<html lang="en-GB" itemscope="" itemtype="http://schema.org/WebPage" class="js_active  vc_desktop  vc_transform  vc_transform  has-cookie-bar cookie-bar-top-bar cookie-bar-bar" style="margin-top: 66px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.wballoys.co.uk/xmlrpc.php">
+<title>Construction – WB Alloys</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Total WordPress Theme 4.1">
+<link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="WB Alloys » Feed" href="https://www.wballoys.co.uk/feed/">
+<link rel="alternate" type="application/rss+xml" title="WB Alloys » Comments Feed" href="https://www.wballoys.co.uk/comments/feed/">
+<link rel="stylesheet" id="js_composer_front-css" href="./welding-194x449_files/js_composer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="cff-css" href="./welding-194x449_files/cff-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="sb-font-awesome-css" href="./welding-194x449_files/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="somdn-style-css" href="./welding-194x449_files/somdn-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="essential-grid-plugin-settings-css" href="./welding-194x449_files/settings.css" type="text/css" media="all">
+<link rel="stylesheet" id="tp-open-sans-css" href="./welding-194x449_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="tp-raleway-css" href="./welding-194x449_files/css(1)" type="text/css" media="all">
+<link rel="stylesheet" id="tp-droid-serif-css" href="./welding-194x449_files/css(2)" type="text/css" media="all">
+<link rel="stylesheet" id="tp-fontello-css" href="./welding-194x449_files/fontello.css" type="text/css" media="all">
+<link rel="stylesheet" id="insta-gallery-css" href="./welding-194x449_files/insta-gallery-min.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="./welding-194x449_files/settings(1).css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="cookie-consent-style-css" href="./welding-194x449_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-general-css" href="./welding-194x449_files/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="parent-style-css" href="./welding-194x449_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-style-css" href="./welding-194x449_files/style(2).css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-google-font-exo-2-css" href="./welding-194x449_files/css(3)" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-woocommerce-css" href="./welding-194x449_files/wpex-woocommerce.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-woocommerce-responsive-css" href="./welding-194x449_files/wpex-woocommerce-responsive.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="wpex-visual-composer-css" href="./welding-194x449_files/wpex-visual-composer.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-visual-composer-extend-css" href="./welding-194x449_files/wpex-visual-composer-extend.css" type="text/css" media="all">
+<link rel="stylesheet" id="wce_frontend_css-css" href="./welding-194x449_files/frontend.css" type="text/css" media="all">
+<style id="wce_frontend_css-inline-css" type="text/css">
+
+	            .woo_catalog_enquiry_custom_button_enquiry {
+					background: #fbfbfb;
+					color: #fbfbfb;
+					padding: 10px;
+					width: 200px;
+					height: 50px;
+					line-height: 18px;
+					border-radius: 5px;
+					border: 1px solid #fbfbfb;
+					font-size: 18px;
+					margin-top : 0px;
+					margin-bottom : 0px;
+				
+				}
+				.woo_catalog_enquiry_custom_button_enquiry:hover {
+					background: #fbfbfb;
+					color: #fbfbfb;
+				}
+				#woo_catalog_enquiry_custom_button {
+					background: #fbfbfb;
+					color: #fbfbfb;
+					padding: 5px;
+					width: 80px;
+					height: 26px;
+					line-height: 14px;
+					border-radius: 5px;
+					border: #fbfbfb;
+					font-size: 12px;
+					margin-top: 5px;
+					margin-bottom: 5px;
+					
+				}
+				#woo_catalog_enquiry_custom_button:hover {
+					background: #fbfbfb;
+					color: #fbfbfb;
+				}
+				/* The Modal (background) */
+				#woo_catalog .catalog_modal {
+				    display: none; /* Hidden by default */
+				    position: fixed; /* Stay in place */
+				    z-index: 100000; /* Sit on top */
+				    /*padding-top: 100px;*/ /* Location of the box */
+				    left: 0;
+				    top: 0;
+				    width: 100%; /* Full width */
+				    height: 100%; /* Full height */
+				    overflow: auto; /* Enable scroll if needed */
+				    background-color: rgb(0,0,0); /* Fallback color */
+				    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+				}
+</style>
+<!--[if IE 8]>
+<link rel='stylesheet' id='wpex-ie8-css'  href='https://www.wballoys.co.uk/wp-content/themes/Total/assets/css/wpex-ie8.css?ver=4.1' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE 9]>
+<link rel='stylesheet' id='wpex-ie9-css'  href='https://www.wballoys.co.uk/wp-content/themes/Total/assets/css/wpex-ie9.css?ver=4.1' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="wpex-responsive-css" href="./welding-194x449_files/wpex-responsive.css" type="text/css" media="all">
+<script type="text/javascript" async="" src="./welding-194x449_files/analytics.js.download"></script><script type="text/javascript" src="./welding-194x449_files/jquery.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/jquery-migrate.min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/jquery.esgbox.min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/jquery.themepunch.tools.min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/jquery.themepunch.revolution.min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/wonderplugincarouselskins.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/wonderplugincarousel.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/jquery.blockUI.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.wballoys.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/add-to-cart.min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/woocommerce-add-to-cart.js.download"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.wballoys.co.uk/wp-content/themes/Total/assets/js/dynamic/html5.js?ver=4.1'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.wballoys.co.uk/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.wballoys.co.uk/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.wballoys.co.uk/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8.12">
+<meta name="generator" content="WooCommerce 3.6.1">
+<link rel="canonical" href="https://www.wballoys.co.uk/construction/">
+<link rel="shortlink" href="https://www.wballoys.co.uk/?p=367">
+<link rel="alternate" type="application/json+oembed" href="https://www.wballoys.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wballoys.co.uk%2Fconstruction%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.wballoys.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.wballoys.co.uk%2Fconstruction%2F&amp;format=xml">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./welding-194x449_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132882042-1');
+</script><!--[if IE 9]> <script>var _gambitParallaxIE9 = true;</script> <![endif]-->		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '72387f9175';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"https://www.wballoys.co.uk/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<style id="ctcc-css" type="text/css" media="screen">
+				#catapult-cookie-bar {
+					box-sizing: border-box;
+					max-height: 0;
+					opacity: 0;
+					z-index: 99999;
+					overflow: hidden;
+					color: #ddd;
+					position: fixed;
+					left: 0;
+					top: 0;
+					width: 100%;
+					background-color: #464646;
+				}
+				#catapult-cookie-bar a {
+					color: #fff;
+				}
+				#catapult-cookie-bar .x_close span {
+					background-color: ;
+				}
+				button#catapultCookie {
+					background:;
+					color: ;
+					border: 0; padding: 6px 9px; border-radius: 3px;
+				}
+				#catapult-cookie-bar h3 {
+					color: #ddd;
+				}
+				.has-cookie-bar #catapult-cookie-bar {
+					opacity: 1;
+					max-height: 999px;
+					min-height: 30px;
+				}</style><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.wballoys.co.uk/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+		<style type="text/css" id="wp-custom-css">
+			.page-header-title{color:red}		</style>
+	<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1501147089972{padding: 40px !important;background-color: #e0e0e0 !important;}.vc_custom_1501147104488{padding: 40px !important;background-image: url(https://www.wballoys.co.uk/wp-content/uploads/2017/04/Gradient-BG.jpg?id=338) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1501147159828{margin-bottom: 40px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style type="text/css" data-type="wpex-css" id="wpex-css">/*ACCENT COLOR*/.wpex-carousel-woocommerce .wpex-carousel-entry-details,.woocommerce ul.products li.product .woocommerce-loop-product__title,.woocommerce ul.products li.product .woocommerce-loop-category__title,.woocommerce .woocommerce-error a.button,.woocommerce .woocommerce-info a.button,.woocommerce .woocommerce-message a.button,a,.wpex-accent-color,#site-navigation .dropdown-menu a:hover,#site-navigation .dropdown-menu >.current-menu-item >a,#site-navigation .dropdown-menu >.current-menu-parent >a,h1 a:hover,h2 a:hover,a:hover h2,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.entry-title a:hover,.modern-menu-widget a:hover,.theme-button.outline,.theme-button.clean{color:#e51b24}.vcex-skillbar-bar,.vcex-icon-box.style-five.link-wrap:hover,.vcex-icon-box.style-four.link-wrap:hover,.vcex-recent-news-date span.month,.vcex-pricing.featured .vcex-pricing-header,.vcex-testimonials-fullslider .sp-button:hover,.vcex-testimonials-fullslider .sp-selected-button,.vcex-social-links a:hover,.vcex-testimonials-fullslider.light-skin .sp-button:hover,.vcex-testimonials-fullslider.light-skin .sp-selected-button,.vcex-divider-dots span,.vcex-testimonials-fullslider .sp-button.sp-selected-button,.vcex-testimonials-fullslider .sp-button:hover,p.demo_store,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce ul.products li.product .added_to_cart,.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover,.woocommerce ul.products li.product .added_to_cart:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce-MyAccount-navigation li.is-active a,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.wpex-accent-bg,.background-highlight,input[type="submit"],.theme-button,button,.theme-button.outline:hover,.active .theme-button,.theme-button.active,#main .tagcloud a:hover,.post-tags a:hover,.wpex-carousel .owl-dot.active,.navbar-style-one .menu-button >a >span.link-inner,.wpex-carousel .owl-prev,.wpex-carousel .owl-next,body #header-two-search #header-two-search-submit,.theme-button:hover,.modern-menu-widget li.current-menu-item a,#sidebar .widget_nav_menu .current-menu-item >a,#wp-calendar caption,#site-scroll-top:hover,input[type="submit"]:hover,button:hover,.wpex-carousel .owl-prev:hover,.wpex-carousel .owl-next:hover,#site-navigation .menu-button >a >span.link-inner,#site-navigation .menu-button >a >span.link-inner:hover,.navbar-style-six .dropdown-menu >.current-menu-item >a,.navbar-style-six .dropdown-menu >.current-menu-parent >a{background-color:#e51b24}.vcex-heading-bottom-border-w-color .vcex-heading-inner{border-bottom-color:#e51b24}.wpb_tabs.tab-style-alternative-two .wpb_tabs_nav li.ui-tabs-active a{border-bottom-color:#e51b24}#current-shop-items-dropdown{border-top-color:#e51b24}.woocommerce div.product .woocommerce-tabs ul.tabs li.active a{border-bottom-color:#e51b24}.theme-button.outline{border-color:#e51b24}#searchform-dropdown{border-color:#e51b24}.toggle-bar-btn:hover{border-top-color:#e51b24;border-right-color:#e51b24}body #site-navigation-wrap.nav-dropdown-top-border .dropdown-menu >li >ul{border-top-color:#e51b24}.theme-heading.border-w-color span.text{border-bottom-color:#e51b24}/*BORDER COLOR*//*BORDER COLOR*/.product_meta,.woocommerce div.product .woocommerce-tabs ul.tabs,#customer_login form.login,#customer_login form.register,p.myaccount_user,.woocommerce ul.product_list_widget li:first-child,.woocommerce .widget_shopping_cart .cart_list li:first-child,.woocommerce.widget_shopping_cart .cart_list li:first-child,.woocommerce ul.product_list_widget li,.woocommerce .widget_shopping_cart .cart_list li,.woocommerce.widget_shopping_cart .cart_list li,.woocommerce-checkout #payment ul.payment_methods,.woocommerce table.shop_table,.woocommerce table.shop_table td,.woocommerce-cart .cart-collaterals .cart_totals tr td,.woocommerce-cart .cart-collaterals .cart_totals tr th,.woocommerce table.shop_table tbody th,.woocommerce table.shop_table tfoot td,.woocommerce table.shop_table tfoot th,.woocommerce .order_details,.woocommerce .cart-collaterals .cross-sells,.woocommerce-page .cart-collaterals .cross-sells,.woocommerce .cart-collaterals .cart_totals,.woocommerce-page .cart-collaterals .cart_totals,.woocommerce .cart-collaterals h2,.woocommerce .cart-collaterals h2,.woocommerce ul.order_details,.woocommerce .shop_table.order_details tfoot th,.woocommerce .shop_table.customer_details th,.woocommerce-checkout #payment ul.payment_methods,.woocommerce .col2-set.addresses .col-1,.woocommerce .col2-set.addresses .col-2,.woocommerce-cart .cart-collaterals .cart_totals .order-total th,.woocommerce-cart .cart-collaterals .cart_totals .order-total td,.woocommerce form.login,.woocommerce form.register,.woocommerce-checkout #payment,#add_payment_method #payment ul.payment_methods,.woocommerce-cart #payment ul.payment_methods,.woocommerce-checkout #payment ul.payment_methods,.theme-heading span.text:after,#comments .comment-body,.centered-minimal-page-header,.theme-heading.border-w-color,#top-bar-wrap,.blog-entry.large-image-entry-style,.blog-entry.grid-entry-style .blog-entry-inner,.entries.left-thumbs .blog-entry.thumbnail-entry-style,.cpt-entry.span_1_of_1,ul .page-numbers a,a.page-numbers,span.page-numbers,.post-pagination,#main .wpex-widget-recent-posts-li:first-child,#main .widget_categories li:first-child,#main .widget_recent_entries li:first-child,#main .widget_archive li:first-child,#main .widget_recent_comments li:first-child,#main .widget_product_categories li:first-child,#main .widget_layered_nav li:first-child,#main .widget-recent-posts-icons li:first-child,#main .site-footer .widget_nav_menu li:first-child,#main .wpex-widget-recent-posts-li,#main .widget_categories li,#main .widget_recent_entries li,#main .widget_archive li,#main .widget_recent_comments li,#main .widget_product_categories li,#main .widget_layered_nav li,#main .widget-recent-posts-icons li,#main .site-footer .widget_nav_menu li,.modern-menu-widget,.modern-menu-widget li,.modern-menu-widget li ul,#sidebar .widget_nav_menu a,#sidebar .widget_nav_menu ul >li:first-child >a,.vcex-divider-solid,.vcex-blog-entry-details,.theme-button.minimal-border,.vcex-login-form,.vcex-recent-news-entry{border-color:#e51b24}/*VC META CSS*/.vc_custom_1498502475218{padding-top:50px !important;background-color:#ffffff !important}.vc_custom_1542730998896{padding-bottom:20px !important}.vc_custom_1542731008000{padding-bottom:20px !important}.vc_custom_1542731024024{padding-bottom:20px !important}.vc_custom_1542731031903{padding-bottom:20px !important}.vc_custom_1498484780581{padding-bottom:20px !important}.vc_custom_1498484731770{padding-bottom:20px !important}.vc_custom_1498498922072{margin-top:0 !important;border-bottom-width:0 !important;border-left-width:1px !important;padding-top:10px !important;padding-right:10px !important;padding-bottom:10px !important;padding-left:10px !important;border-left-color:#e0e0e0 !important;border-left-style:solid !important;border-bottom-color:#e0e0e0 !important;border-bottom-style:solid !important}/*TYPOGRAPHY*/body{font-family:"Exo 2";font-size:16px;color:#545454}#top-bar-content{font-family:"Exo 2"}#site-navigation .dropdown-menu a{font-family:"Exo 2";font-size:16px;letter-spacing:2px;text-transform:uppercase}.wpex-mobile-menu,#sidr-main{font-family:"Exo 2"}.blog-entry-title.entry-title a,.blog-entry-title.entry-title a:hover{font-family:"Exo 2"}body .single-post-title{font-family:"Exo 2"}h1,h2,h3,h4,h5,h6,.theme-heading,.page-header-title,.heading-typography,.widget-title,.wpex-widget-recent-posts-title,.comment-reply-title,.vcex-heading,.entry-title,.sidebar-box .widget-title,.search-entry h2{font-family:"Exo 2"}.theme-heading{font-family:"Exo 2"}.sidebar-box .widget-title{font-family:"Exo 2"}.entry h1{font-family:"Exo 2";font-weight:700;font-size:32px;color:#ffffff}.entry h2{font-family:"Exo 2";font-size:26px;color:#ffffff}.entry h3{font-family:"Exo 2"}.entry h4{font-family:"Exo 2"}.footer-widget .widget-title{font-family:"Exo 2"}.footer-callout-content{font-family:"Exo 2"}#copyright{font-family:"Exo 2"}#footer-bottom-menu{font-family:"Exo 2"}.woocommerce ul.products li.product .woocommerce-loop-product__title,.woocommerce ul.products li.product .woocommerce-loop-category__title{font-family:"Exo 2"}.woocommerce div.product .product_title{font-family:"Exo 2"}.woocommerce-tabs h2{font-family:"Exo 2"}.woocommerce .upsells.products h2,.woocommerce .related.products h2{font-family:"Exo 2"}/*Shrink Fixed header*/.sticky-header-shrunk #site-header-inner{height:70px}.shrink-sticky-header.sticky-header-shrunk .navbar-style-five .dropdown-menu >li >a{height:50px}.shrink-sticky-header.sticky-header-shrunk #site-logo img{max-height:50px !important}/*ADVANCED STYLING CSS*/.is-sticky #site-header{border-color:transparent}/*CUSTOMIZER STYLING*/@media only screen and (min-width:960px){#site-logo img{max-width:175px}}@media only screen and (min-width:768px) and (max-width:959px){#site-logo img{max-width:150px}}@media only screen and (max-width:767px){#site-logo img{max-width:80px}}#site-scroll-top{color:#ffffff;background-color:#e51b24}#top-bar-wrap{background-color:#dd3333;border-color:#dd3333;color:#ffffff}.wpex-top-bar-sticky{background-color:#dd3333}#top-bar-content strong{color:#ffffff}#top-bar-content a{color:#ffffff}#top-bar-social-alt a{color:#ffffff}#top-bar-content a:hover{color:#ffffff}#top-bar-social-alt a:hover{color:#ffffff}#top-bar{padding-top:5px;padding-bottom:5px}#site-header{background-color:#ffffff}#site-header-sticky-wrapper{background-color:#ffffff}#site-header-sticky-wrapper.is-sticky #site-header{background-color:#ffffff}.footer-has-reveal #site-header{background-color:#ffffff}#searchform-header-replace{background-color:#ffffff}body.wpex-has-vertical-header #site-header{background-color:#ffffff}#site-header-inner{padding-top:5px;padding-bottom:5px}#site-header.overlay-header #site-header-inner{padding-top:5px;padding-bottom:5px}#site-logo{padding-top:10px}.shrink-sticky-header #site-logo img{max-height:122px!important}#site-navigation >ul li{border-color:#e51b24}#site-navigation a{border-color:#e51b24}#site-navigation ul{border-color:#e51b24}#site-navigation-wrap{border-color:#e51b24}#site-navigation{border-color:#e51b24}.navbar-style-six #site-navigation{border-color:#e51b24}#site-navigation-sticky-wrapper.is-sticky #site-navigation-wrap{border-color:#e51b24}#site-navigation .dropdown-menu >li >a{color:#0a0a0a}#site-navigation .dropdown-menu >li >a:hover{color:#e51b24}#site-navigation .dropdown-menu >.current-menu-item >a,#site-navigation .dropdown-menu >.current-menu-parent >a,#site-navigation .dropdown-menu >.current-menu-item >a:hover,#site-navigation .dropdown-menu >.current-menu-parent >a:hover{color:#e5474f!important}#site-header #site-navigation .dropdown-menu ul{background-color:#e0e0e0;border-color:#e51b24}#site-header #site-navigation .dropdown-menu ul li{border-color:#e51b24}#site-header #site-navigation .dropdown-menu ul li a{border-color:#e51b24}#searchform-dropdown{border-top-color:#dd3333}#mobile-menu a{font-size:28px}#footer{background-color:#ffffff}#footer-bottom{background:#ffffff;color:#000000}#footer-bottom p{color:#000000}#footer-bottom a{color:#e51b24}#footer-bottom a:hover{color:#e5000b}.vc_column-inner{margin-bottom:40px}</style><style class="wpex-vc-rcss">/** RESPONSIVE VC PARAMS **/@media (max-width: 1024px) {  }@media (max-width: 959px) {  }@media (max-width: 767px) {  }@media (max-width: 479px) {  }</style></head>
+
+<!-- Begin Body -->
+<body class="page-template-default page page-id-367 custom-background wp-custom-logo woocommerce-js wpex-theme wpex-responsive full-width-main-layout has-composer wpex-live-site content-full-width has-topbar sidebar-widget-icons hasnt-overlay-header page-header-disabled smooth-fonts wpex-mobile-toggle-menu-icon_buttons has-mobile-menu wpb-js-composer js-comp-ver-5.1.1 vc_responsive wpex-is-retina wpex-window-loaded">
+
+<span data-ls_id="#site_top"></span>
+<div id="outer-wrap" class="clr">
+
+	
+	<div id="wrap" class="clr">
+
+		
+
+	<div id="top-bar-wrap-sticky-wrapper" class="wpex-sticky-top-bar-holder is-sticky" style="height: 40px;"><div id="top-bar-wrap" class="clr wpex-top-bar-sticky wpex-full-width" style="top: 0px; width: 1519px;">
+		<div id="top-bar" class="clr container">
+			
+	<div id="top-bar-content" class="wpex-clr has-content top-bar-left">
+
+		
+		
+			<span class="fa fa-phone" style="color: #fff;margin-right: 5px;"></span> <a href="tel:+441419404730">+44 (0) 141 940 4730</a> <span class="fa fa-envelope" style="color: #fff;margin-left: 20px;margin-right: 5px;"></span> <a href="mailto:welding@wballoys.co.uk">welding@wballoys.co.uk</a> <span class="fa fa-user" style="color: #fff;margin-left: 20px;margin-right: 5px;"></span> <a href="https://www.wballoys.co.uk/wp-login.php" title="User Login" class="wpex-login">User Login</a>
+		
+	</div><!-- #top-bar-content -->
+
+
+	<div id="top-bar-social-alt" class="clr top-bar-right">
+<form method="get" class="searchform" action="https://www.wballoys.co.uk/">
+	<input type="search" class="field" name="s" placeholder="Search">
+		<button type="submit" class="searchform-submit"><span class="fa fa-search" aria-hidden="true"></span><span class="screen-reader-text">Submit</span></button>
+</form></div><!-- #top-bar-social-alt -->
+
+		</div><!-- #top-bar -->
+	</div></div><!-- #top-bar-wrap -->
+
+
+
+<div id="site-header-sticky-wrapper" class="wpex-sticky-header-holder is-sticky" style="height: 113px;"><header id="site-header" class="header-one wpex-full-width fixed-scroll shrink-sticky-header anim-shrink-header wpex-dropdown-style-minimal clr sticky-header-shrunk" itemscope="itemscope" itemtype="http://schema.org/WPHeader" style="top: 40px; width: 1519px;">
+
+	
+	<div id="site-header-inner" class="container clr">
+
+		
+<div id="site-logo" class="site-branding clr header-one-logo">
+	<div id="site-logo-inner" class="clr">
+									<a href="https://www.wballoys.co.uk/" title="WB Alloys" rel="home" class="main-logo"><img src="./welding-194x449_files/WB-Alloys-Logo-Red-1.png" alt="WB Alloys" class="logo-img" data-no-retina=""></a>
+											</div><!-- #site-logo-inner -->
+</div><!-- #site-logo -->
+	
+	<div id="site-navigation-wrap" class="navbar-style-one wpex-dropdowns-caret wpex-flush-dropdowns wpex-dropdown-top-border clr">
+
+		<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+			
+				<ul id="menu-main-menu" class="dropdown-menu sf-menu sf-js-enabled" style="touch-action: pan-y;"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-68"><a href="https://www.wballoys.co.uk/"><span class="link-inner">Home</span></a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://www.wballoys.co.uk/about/"><span class="link-inner">About</span></a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="https://www.wballoys.co.uk/site-services/"><span class="link-inner">Site Services</span></a></li>
+<li id="menu-item-1273" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children dropdown menu-item-1273"><a href="https://www.wballoys.co.uk/construction/#" class="sf-with-ul"><span class="link-inner">Sectors <span class="nav-arrow top-level fa fa-angle-down"></span></span></a>
+<ul class="sub-menu" style="display: none; top: 60px;">
+	<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="https://www.wballoys.co.uk/oil-gas/"><span class="link-inner">Oil &amp; Gas</span></a></li>
+	<li id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><a href="https://www.wballoys.co.uk/nuclear/"><span class="link-inner">Nuclear</span></a></li>
+	<li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="https://www.wballoys.co.uk/defence/"><span class="link-inner">Marine</span></a></li>
+	<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="https://www.wballoys.co.uk/renewables/"><span class="link-inner">Renewables</span></a></li>
+	<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="https://www.wballoys.co.uk/aerospace/"><span class="link-inner">Power Generation</span></a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-367 current_page_item menu-item-369"><a href="https://www.wballoys.co.uk/construction/"><span class="link-inner">Construction</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1274"><a href="https://www.wballoys.co.uk/construction/#" class="sf-with-ul"><span class="link-inner">Products &amp; Solutions <span class="nav-arrow top-level fa fa-angle-down"></span></span></a>
+<ul class="sub-menu" style="display: none; top: 60px;">
+	<li id="menu-item-1400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1400"><a class="sf-with-ul"><span class="link-inner">Welding Consumables<span class="nav-arrow second-level fa fa-angle-right"></span></span></a>
+	<ul class="sub-menu" style="display: none;">
+		<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://www.wballoys.co.uk/mig-wire/"><span class="link-inner">MIG / Cored Wires</span></a></li>
+		<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://www.wballoys.co.uk/tig-wire/"><span class="link-inner">TIG Wire</span></a></li>
+		<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://www.wballoys.co.uk/mma-electrodes/"><span class="link-inner">MMA ELECTRODES</span></a></li>
+		<li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="https://www.wballoys.co.uk/sub-arc/"><span class="link-inner">Sub Arc</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://www.wballoys.co.uk/welding-machines/"><span class="link-inner">Welding machines</span></a></li>
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="https://www.wballoys.co.uk/welding-data-loggers/"><span class="link-inner">WELDING &amp; GAS DATA LOGGERS</span></a></li>
+	<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.wballoys.co.uk/welding-accessories/"><span class="link-inner">WELDING ACCESSORIES</span></a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://www.wballoys.co.uk/welding-automation-equipment/"><span class="link-inner">WELDING AUTOMATION</span></a></li>
+	<li id="menu-item-1236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1236"><a href="https://www.wballoys.co.uk/pipe-equipment-and-rollers/"><span class="link-inner">Pipe Equipment</span></a></li>
+	<li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="https://www.wballoys.co.uk/metal-heat-treatment-2/"><span class="link-inner">Metal Heat Treatment</span></a></li>
+	<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74"><a href="https://www.wballoys.co.uk/plasma-cutting/"><span class="link-inner">PLASMA CUTTING</span></a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://www.wballoys.co.uk/gas-cutting-equipment/"><span class="link-inner">GAS CUTTING</span></a></li>
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://www.wballoys.co.uk/gas-accessories/"><span class="link-inner">GAS ACCESSORIES</span></a></li>
+	<li id="menu-item-961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-961"><a href="https://www.wballoys.co.uk/calibrations-gas-fitting/"><span class="link-inner">Calibrations &amp; Gas Testing</span></a></li>
+	<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://www.wballoys.co.uk/safety-equipment/"><span class="link-inner">SAFETY EQUIPMENT</span></a></li>
+	<li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="https://www.wballoys.co.uk/fit-up-gear/"><span class="link-inner">Fit Up Gear</span></a></li>
+</ul>
+</li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://www.wballoys.co.uk/contact/"><span class="link-inner">Contact</span></a></li>
+<li class="woo-menu-icon wpex-menu-extra wcmenucart-toggle-drop_down toggle-cart-widget">
+			
+			<a href="https://www.wballoys.co.uk/basket/" class="wcmenucart wcmenucart-items-0" title="Your Cart">
+				<span class="link-inner">
+					<span class="wcmenucart-count"><span class="wcmenucart-icon fa fa-shopping-cart"></span><span class="wcmenucart-text">Shop</span><span class="wcmenucart-details count">0</span></span>
+				</span>
+			</a>
+			
+		
+			
+		</li></ul>
+			
+		</nav><!-- #site-navigation -->
+
+	</div><!-- #site-navigation-wrap -->
+
+	
+
+<div id="mobile-menu" class="clr wpex-mobile-menu-toggle wpex-hidden">
+			<a href="https://www.wballoys.co.uk/construction/#" class="mobile-menu-toggle"><span class="fa fa-navicon"></span></a>
+		</div><!-- #mobile-menu -->
+<div id="current-shop-items-dropdown" class="clr">
+
+	<div id="current-shop-items-inner" class="clr">
+
+		<div class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Basket</h2><div class="widget_shopping_cart_content">
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the basket.</p>
+
+
+</div></div>
+	</div><!-- #current-shop-items-inner -->
+	
+</div><!-- #current-shop-items-dropdown -->
+	</div><!-- #site-header-inner -->
+
+	
+</header></div><!-- #header -->
+
+
+		
+		<main id="main" class="site-main clr">
+
+			
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article id="single-blocks" class="single-page-article wpex-clr">
+
+	
+<div class="single-page-content entry clr"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">
+<div class="forcefullwidth_wrapper_tp_banner" id="rev_slider_12_1_forcefullwidth" style="position:relative;width:100%;height:auto;margin-top:0px;margin-bottom:0px"><div id="rev_slider_12_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin: 0px auto; background: transparent; padding: 0px; height: 868px; position: absolute; overflow: visible; width: 1519px; left: -270px;">
+<!-- START REVOLUTION SLIDER 5.4.5 fullwidth mode -->
+	<div id="rev_slider_12_1" class="rev_slider fullwidthabanner revslider-initialised tp-simpleresponsive rev_redraw_on_blurfocus" style="max-height: 868px; margin-top: 0px; margin-bottom: 0px; height: 868px;" data-version="5.4.5" data-slideactive="rs-19">
+<ul class="tp-revslider-mainul" style="visibility: visible; display: block; overflow: hidden; width: 100%; height: 100%; max-height: none;">	<!-- SLIDE  -->
+	<li data-index="rs-19" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" class="tp-revslider-slidesli active-revslide" style="width: 100%; height: 100%; overflow: hidden; z-index: 20; visibility: inherit; opacity: 1; background-color: rgba(255, 255, 255, 0);">
+		<!-- MAIN IMAGE -->
+		<div class="slotholder" style="position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"><!--Runtime Modification - Img tag is Still Available for SEO Goals in Source - <img src="https://www.wballoys.co.uk/wp-content/uploads/2017/05/Weldingofsteelstructures..jpg" alt="" title="Weldingofsteelstructures." width="2000" height="1333" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg defaultimg" data-no-retina="">--><div class="tp-bgimg defaultimg " data-bgcolor="undefined" style="background-repeat: no-repeat; background-image: url(&quot;https://www.wballoys.co.uk/wp-content/uploads/2017/05/Weldingofsteelstructures..jpg&quot;); background-size: cover; background-position: center center; width: 100%; height: 100%; opacity: 1; visibility: inherit; z-index: 20;" src="https://www.wballoys.co.uk/wp-content/uploads/2017/05/Weldingofsteelstructures..jpg"></div></div>
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important; width: 0%;"></div>	<div class="tp-loader spinner0" style="display: none;"><div class="dot1"></div><div class="dot2"></div><div class="bounce1"></div><div class="bounce2"></div><div class="bounce3"></div></div></div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_12_1'), gridwidth: [1240], gridheight: [868], sliderLayout: 'fullwidth'});
+			
+var revapi12,
+	tpj=jQuery;
+			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_12_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_12_1");
+	}else{
+		revapi12 = tpj("#rev_slider_12_1").show().revolution({
+			sliderType:"hero",
+			jsFileLocation:"//www.wballoys.co.uk/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullwidth",
+			dottedOverlay:"none",
+			delay:9000,
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:1240,
+			gridheight:868,
+			lazyType:"none",
+			shadow:0,
+			spinner:"spinner0",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+		</div><div class="tp-fullwidth-forcer" style="width: 100%; height: 868px;"></div></div><!-- END REVOLUTION SLIDER --></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>WB Alloy Welding Products (WBA) have been a manufacturer and supplier to the Construction market for over 40 years. WBA supplier a full range of MMA, MIG, TIG, FCAW, SAW &amp; ESW consumables from Carbon Manganese, Low Alloy to HSLA steels.</p>
+<p>WBA also manufacture and supply a range of equipment and accessories to complement our extensive portfolio of product lines. WBA are a key worldwide supplier and boast over 700 key end users working on a variety of projects from the Forth Crossing with CBI to the new airport terminal in Dubai.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="true" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding vc_row-o-equal-height vc_row-flex wpex-vc-row-stretched" style="position: relative; left: -254.6px; box-sizing: border-box; width: 1519px;"><div class="wpb_column vc_column_container vc_col-sm-6 wpex-vc_col-has-fill"><div class="vc_column-inner vc_custom_1501147089972"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h2><strong>Get in touch</strong></h2>
+<p>Got a question? Then get in touch! We will be happy to discuss how we can work together.</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-inline">
+	<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-grey" href="https://www.wballoys.co.uk/contact/" title="">Contact Us</a></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 wpex-vc_col-has-fill"><div class="vc_column-inner vc_custom_1501147104488"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1501147159828">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #ffffff;">Stay in touch</span></h2>
+<p><span style="color: #ffffff;">Sign up to our newsletter for lots of helpful information and to keep up to date with our latest news.</span></p>
+
+		</div>
+	</div>
+<div class="vcex-module vcex-newsletter-form clr"><div id="mc_embed_signup" class="vcex-newsletter-form-wrap"><form action="https://domain.us1.list-manage.com/subscribe/post?u=numbers_go_here" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""><input type="email" value="Enter your email address" onfocus="if(this.value==this.defaultValue)this.value=&#39;&#39;;" onblur="if(this.value==&#39;&#39;)this.value=this.defaultValue;" name="EMAIL" class="required email" id="mce-EMAIL"><button type="submit" value="" name="subscribe" id="mc-embedded-subscribe" class="vcex-newsletter-form-button">Go</button></form></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
+</div>
+
+
+</article><!-- #single-blocks -->
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- .container -->
+
+
+            
+        </main><!-- #main-content -->
+                
+        
+        
+
+	
+		<div id="footer-builder" class="footer-builder clr">
+			<div class="footer-builder-content clr container entry">
+				<div class="vc_row wpb_row vc_row-fluid vc_custom_1498502475218 vc_row-o-equal-height vc_row-flex wpex-vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1542730998896">
+		<div class="wpb_wrapper">
+			<p><span style="font-size: 12px;"><strong>Head Office</strong></span><br>
+<span style="font-size: 12px;">Dalsetter House</span><br>
+<span style="font-size: 12px;">37 Dalsetter Avenue</span><br>
+<span style="font-size: 12px;">Glasgow</span><br>
+<span style="font-size: 12px;">G15 8TE</span></p>
+<p><span style="font-size: 12px;"><strong>T:</strong> 0141 940 4730</span><br>
+<span style="font-size: 12px;"><strong>F:</strong> 0141 944 5389</span><br>
+<span style="font-size: 12px;"><strong>E:</strong> <a href="mailto:welding@wballoys.co.uk">welding@wballoys.co.uk</a></span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1542731008000">
+		<div class="wpb_wrapper">
+			<p><span style="font-size: 12px;"><strong>North Scottish Depot</strong></span><br>
+<span style="font-size: 12px;">Unit 8, Altens Trade Centre</span><br>
+<span style="font-size: 12px;">Hareness Circle</span><br>
+<span style="font-size: 12px;">Aberdeen</span><br>
+<span style="font-size: 12px;">AB12 3LY</span></p>
+<p><span style="font-size: 12px;"><strong>T:</strong> 01224 870052</span><br>
+<span style="font-size: 12px;"><strong>F:</strong> 01224 896385</span><br>
+<span style="font-size: 12px;"><strong>E:</strong> <a href="mailto:sales.aberdeen@wballoys.co.uk">sales.aberdeen@wballoys.co.uk</a></span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1542731024024">
+		<div class="wpb_wrapper">
+			<p><span style="font-size: 12px;"><strong>South England Depot</strong></span><br>
+<span style="font-size: 12px;">Unit 2F, Westbridge Ind Est</span><br>
+<span style="font-size: 12px;">Pixon Lane</span><br>
+<span style="font-size: 12px;">Tavistock, Devon</span><br>
+<span style="font-size: 12px;">PL198DE</span></p>
+<p><span style="font-size: 12px;"><strong>T:</strong> 01822 618287</span><br>
+<span style="font-size: 12px;"><strong>F:</strong> 01822 618079</span><br>
+<span style="font-size: 12px;"><strong>E:</strong> <a href="mailto:sales-tavistock@wballoys.co.uk">sales-tavistock@wballoys.co.uk</a></span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1542731031903">
+		<div class="wpb_wrapper">
+			<p><span style="font-size: 12px;"><strong>WB Alloys FZC</strong></span><br>
+<span style="font-size: 12px;">Free Trade Zone Technology Park</span><br>
+<span style="font-size: 12px;">Units 25/08 &amp; 26/16</span><br>
+<span style="font-size: 12px;">PO Box 35399</span><br>
+<span style="font-size: 12px;">Ras Al Khaimah, UAE</span></p>
+<p><span style="font-size: 12px;">T: +971 (0) 7 2446185</span><br>
+<span style="font-size: 12px;">F: +971 (0) 7 2446195</span><br>
+<span style="font-size: 12px;">E:&nbsp;</span><a style="font-size: 12px;" href="mailto:jpsingh@wballoysfzc.com">jpsingh@wballoysfzc.com</a></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div style="font-size:24px;" data-max-font-size="24" data-min-font-size="16" class="wpb_text_column wpex-responsive-txt wpb_content_element  vc_custom_1498484780581">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;"><span style="color: #e51b24;"><strong>Follow</strong></span>&nbsp;Us</p>
+
+		</div>
+	</div>
+<div class="vcex-module wpex-social-btns vcex-social-btns"><a href="https://www.facebook.com/wballoys/" class="wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-semi-rounded wpex-facebook" target="_blank"><span class="fa fa-facebook"></span></a><a href="https://twitter.com/wballoys" class="wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-semi-rounded wpex-twitter" target="_blank"><span class="fa fa-twitter"></span></a><a href="https://www.instagram.com/wb_alloys/" class="wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-semi-rounded wpex-instagram" target="_blank"><span class="fa fa-instagram"></span></a><a href="https://www.youtube.com/user/wballoys" class="wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-semi-rounded wpex-youtube" target="_blank"><span class="fa fa-youtube"></span></a><a href="https://plus.google.com/+wballoys" class="wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-semi-rounded wpex-google-plus" target="_blank"><span class="fa fa-google-plus"></span></a><a href="https://www.linkedin.com/in/wballoys" class="wpex-social-btn wpex-social-btn-flat wpex-social-bg wpex-semi-rounded wpex-linkedin" target="_blank"><span class="fa fa-linkedin"></span></a></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>© Copyright WB Alloys Welding Products Ltd</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div style="font-size:24px;text-align:center;" data-max-font-size="24" data-min-font-size="16" class="wpb_text_column wpex-responsive-txt wpb_content_element  vc_custom_1498484731770">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;"><span style="color: #e51b24;"><strong>Accreditations</strong></span></p>
+
+		</div>
+	</div>
+<div class="vcex-module vcex-image-grid wpex-row clr grid-style-default gap-none" data-skin="minimal"><div class="id-166 vcex-image-grid-entry span_1_of_4 span_1_of_4_tl span_1_of_4_tp span_1_of_2_pl span_1_of_1_pp col col-1"><figure class="vcex-image-grid-entry-figure clr vc_custom_1498498922072"><div class="vcex-image-grid-entry-img clr hvr hvr-grow image-filter-grayscale"><a href="./welding-194x449_files/ADS-Silver.jpg" class="vcex-image-grid-entry-img wpex-lightbox" data-skin="minimal" data-title="" data-type="image"><img width="250" height="135" src="./welding-194x449_files/ADS-Silver.jpg" class="attachment-full size-full" alt="ADS-Silver" srcset="https://www.wballoys.co.uk/wp-content/uploads/2017/05/ADS-Silver.jpg 250w, https://www.wballoys.co.uk/wp-content/uploads/2017/05/ADS-Silver-150x81.jpg 150w" sizes="(max-width: 250px) 100vw, 250px"></a></div></figure></div><div class="id-165 vcex-image-grid-entry span_1_of_4 span_1_of_4_tl span_1_of_4_tp span_1_of_2_pl span_1_of_1_pp col col-2"><figure class="vcex-image-grid-entry-figure clr vc_custom_1498498922072"><div class="vcex-image-grid-entry-img clr hvr hvr-grow image-filter-grayscale"><a href="./welding-194x449_files/ads-logo.png" class="vcex-image-grid-entry-img wpex-lightbox" data-skin="minimal" data-title="" data-type="image"><img width="148" height="79" src="./welding-194x449_files/ads-logo.png" class="attachment-full size-full" alt="ads-logo"></a></div></figure></div><div class="id-161 vcex-image-grid-entry span_1_of_4 span_1_of_4_tl span_1_of_4_tp span_1_of_2_pl span_1_of_1_pp col col-3"><figure class="vcex-image-grid-entry-figure clr vc_custom_1498498922072"><div class="vcex-image-grid-entry-img clr hvr hvr-grow image-filter-grayscale"><a href="./welding-194x449_files/Scottish-Engineering.jpg" class="vcex-image-grid-entry-img wpex-lightbox" data-skin="minimal" data-title="" data-type="image"><img width="249" height="65" src="./welding-194x449_files/Scottish-Engineering.jpg" class="attachment-full size-full" alt="Scottish-Engineering" srcset="https://www.wballoys.co.uk/wp-content/uploads/2017/04/Scottish-Engineering.jpg 249w, https://www.wballoys.co.uk/wp-content/uploads/2017/04/Scottish-Engineering-150x39.jpg 150w" sizes="(max-width: 249px) 100vw, 249px"></a></div></figure></div><div class="id-160 vcex-image-grid-entry span_1_of_4 span_1_of_4_tl span_1_of_4_tp span_1_of_2_pl span_1_of_1_pp col col-4"><figure class="vcex-image-grid-entry-figure clr vc_custom_1498498922072"><div class="vcex-image-grid-entry-img clr hvr hvr-grow image-filter-grayscale"><a href="./welding-194x449_files/ISO-9001.jpg" class="vcex-image-grid-entry-img wpex-lightbox" data-skin="minimal" data-title="" data-type="image"><img width="250" height="100" src="./welding-194x449_files/ISO-9001.jpg" class="attachment-full size-full" alt="ISO-9001" srcset="https://www.wballoys.co.uk/wp-content/uploads/2017/04/ISO-9001.jpg 250w, https://www.wballoys.co.uk/wp-content/uploads/2017/04/ISO-9001-150x60.jpg 150w" sizes="(max-width: 250px) 100vw, 250px"></a></div></figure></div></div></div></div></div></div>			</div><!-- .footer-builder-content -->
+		</div><!-- .footer-builder -->
+
+	
+
+    </div><!-- #wrap -->
+
+    
+</div><!-- .outer-wrap -->
+
+
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">
+var cfflinkhashtags = "true";
+</script>
+
+<div id="mobile-menu-search" class="clr wpex-hidden">
+	<form method="get" action="https://www.wballoys.co.uk/" class="mobile-menu-searchform">
+		<input type="search" name="s" autocomplete="off" placeholder="Search">
+				<button type="submit" class="searchform-submit"><span class="fa fa-search"></span></button>
+	</form>
+</div><!-- #mobile-menu-search -->
+<a href="https://www.wballoys.co.uk/construction/#" id="site-scroll-top" aria-hidden="true" class="show"><span class="fa fa-chevron-up"></span></a>			<div id="sidr-close"><a href="https://www.wballoys.co.uk/construction/#sidr-close" class="toggle-sidr-close" aria-hidden="true"></a></div>
+		<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+				<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<link rel="stylesheet" id="wpex-ilightbox-minimal-css" href="./welding-194x449_files/ilightbox-minimal-skin.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpex-hover-animations-css" href="./welding-194x449_files/hover-css.min.css" type="text/css" media="all">
+<script type="text/javascript" src="./welding-194x449_files/cff-scripts.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var somdn_script_params = {"somdn_qview_active":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/somdn_script.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var insgalajax = {"ajax_url":"https:\/\/www.wballoys.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/insta-gallery-min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/swiper.min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/jquery.magnific-popup.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"1","version":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/uk-cookie-consent-js.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/js.cookie.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/woocommerce.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_6de703ec02cdec3e12bf36edce8ab0ca","fragment_name":"wc_fragments_6de703ec02cdec3e12bf36edce8ab0ca","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/cart-fragments.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpexLocalize = {"isRTL":"","mainLayout":"full-width","menuSearchStyle":"disabled","siteHeaderStyle":"one","megaMenuJS":"1","superfishDelay":"600","superfishSpeed":"fast","superfishSpeedOut":"fast","hasMobileMenu":"1","mobileMenuBreakpoint":"960","mobileMenuStyle":"sidr","mobileMenuToggleStyle":"icon_buttons","localScrollUpdateHash":"","localScrollHighlight":"1","localScrollSpeed":"1000","localScrollEasing":"easeInOutExpo","scrollTopSpeed":"1000","scrollTopOffset":"100","carouselSpeed":"150","lightboxType":"iLightbox","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, #bbp_stick_topic_select, #bbp_topic_status_select, #bbp_destination_topic, .single-product .variations_form .variations select, .widget .dropdown_product_cat","overlaysMobileSupport":"1","responsiveDataBreakpoints":{"tl":"1024px","tp":"959px","pl":"767px","pp":"479px"},"hasStickyHeader":"1","stickyHeaderStyle":"shrink_animated","hasStickyMobileHeader":"","overlayHeaderStickyTop":"0","stickyHeaderBreakPoint":"960","shrinkHeaderHeight":"70","wooCartStyle":"drop_down","sidrSource":"#sidr-close, #site-navigation, #mobile-menu-search","sidrDisplace":"1","sidrSide":"right","sidrBodyNoScroll":"","sidrSpeed":"300","sidrDropdownTarget":"arrow","stickyTopBarBreakPoint":"960","hasStickyTopBarMobile":"1","altercf7Prealoader":"1","iLightbox":{"auto":false,"skin":"minimal","path":"horizontal","infinite":false,"maxScale":1,"minScale":0,"width":1400,"height":"","videoWidth":1280,"videoHeight":720,"controls":{"arrows":true,"thumbnail":true,"fullscreen":true,"mousewheel":false,"slideshow":true},"slideshow":{"pauseTime":3000,"startPaused":true},"effects":{"reposition":true,"repositionSpeed":200,"switchSpeed":300,"loadedFadeSpeed":50,"fadeSpeed":500},"show":{"title":true,"speed":200},"hide":{"speed":200},"overlay":{"blur":true,"opacity":"0.9"},"social":{"start":true,"show":"mouseenter","hide":"mouseleave","buttons":false},"text":{"close":"Press Esc to close","enterFullscreen":"Enter Fullscreen (Shift+Enter)","exitFullscreen":"Exit Fullscreen (Shift+Enter)","slideShow":"Slideshow","next":"Next","previous":"Previous"},"thumbnails":{"maxWidth":120,"maxHeight":80}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/wpex.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var catalog_enquiry_front = {"ajaxurl":"https:\/\/www.wballoys.co.uk\/wp-admin\/admin-ajax.php","json_arr":"[\"name\",\"email\",\"subject\",\"phone\",\"address\",\"comment\"]","settings":{"redirect_page_id":"105","custom_static_heading":"","name_label":"","email_label":"Enter your Email Address :","subject_label":"","phone_label":"","address_label":"","comment_label":"","fileupload_label":"","captcha_label":"","captcha_input_label":"","is_captcha":"Enable","is_enable":"Enable","for_user_type":"3","other_emails":"","top_content_form":"","bottom_content_form":"","is_enable_enquiry":"Enable","button_type":"0","button_link":"","button_text":"Enquire Now","button_text_color":"fbfbfb","button_background_color":"fbfbfb","button_text_color_hover":"fbfbfb","button_background_color_hover":"fbfbfb","button_border_color":"fbfbfb","is_subject":"Enable","is_phone":"Enable","is_address":"Enable","is_comment":"Enable","filesize_limit":"","is_hide_cart_checkout":"Enable","is_other_admin_mail":"Enable","other_admin_mail":"welding@wballoys.co.uk"},"error_levels":{"name_required":"Name is required field","email_required":"Email is required field","email_valid":"Please Enter Valid Email Id","captcha_required":"Please enter the security code","captcha_valid":"Please enter the valid seurity code","ajax_error":"Error in system please try later","filetype_error":"Invalid file format.","filesize_error":"Exceeded filesize limit."},"ajax_success_msg":"Enquiry sent successfully","redirect_link":"https:\/\/www.wballoys.co.uk\/about\/","captcha":"826VMROC"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./welding-194x449_files/frontend.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/wp-embed.min.js.download"></script>
+<script type="text/javascript" src="./welding-194x449_files/js_composer_front.min.js.download"></script>
+			
+				<script type="text/javascript">
+					jQuery(document).ready(function($){
+												if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+							$("html").addClass("has-cookie-bar");
+							$("html").addClass("cookie-bar-top-bar");
+							$("html").addClass("cookie-bar-bar");
+															// Wait for the animation on the html to end before recalculating the required top margin
+								$("html").on('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(e) {
+									// code to execute after transition ends
+									var barHeight = $('#catapult-cookie-bar').outerHeight();
+									$("html").css("margin-top",barHeight);
+									$("body.admin-bar").css("margin-top",barHeight-32); // Push the body down if the admin bar is active
+								});
+													}
+																	});
+				</script>
+			
+			<div id="catapult-cookie-bar" class=""><div class="ctcc-inner "><span class="ctcc-left-side">This site uses cookies:  <a class="ctcc-more-info-link" tabindex="0" target="_blank" href="https://www.wballoys.co.uk/cookie-policy/">Find out more.</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex="0" onclick="catapultAcceptCookies();">Okay, thank you</button></span></div><!-- custom wrapper class --></div><!-- #catapult-cookie-bar -->
+
+<div class="wpex-sidr-overlay wpex-hidden"></div><div id="sidr-main" class="sidr right" style="transition: right 0.3s ease 0s;"><div class="sidr-inner"><a href="https://www.wballoys.co.uk/construction/#sidr-close" class="sidr-class-toggle-sidr-close" aria-hidden="true"></a></div><div class="sidr-inner">
+
+			
+				<ul id="sidr-id-menu-main-menu" class="sidr-class-dropdown-menu sidr-class-sf-menu sidr-class-sf-js-enabled"><li id="sidr-id-menu-item-68" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-home sidr-class-menu-item-68"><a href="https://www.wballoys.co.uk/"><span class="sidr-class-link-inner">Home</span></a></li>
+<li id="sidr-id-menu-item-108" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-108"><a href="https://www.wballoys.co.uk/about/"><span class="sidr-class-link-inner">About</span></a></li>
+<li id="sidr-id-menu-item-353" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-353"><a href="https://www.wballoys.co.uk/site-services/"><span class="sidr-class-link-inner">Site Services</span></a></li>
+<li id="sidr-id-menu-item-1273" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-current-menu-ancestor sidr-class-current-menu-parent sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-1273"><a href="https://www.wballoys.co.uk/construction/#" class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Sectors <span class="sidr-class-nav-arrow sidr-class-top-level fa fa-angle-down"></span></span><span class="sidr-class-dropdown-toggle"></span></a>
+<ul class="sidr-class-sub-menu">
+	<li id="sidr-id-menu-item-374" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-374"><a href="https://www.wballoys.co.uk/oil-gas/"><span class="sidr-class-link-inner">Oil &amp; Gas</span></a></li>
+	<li id="sidr-id-menu-item-373" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-373"><a href="https://www.wballoys.co.uk/nuclear/"><span class="sidr-class-link-inner">Nuclear</span></a></li>
+	<li id="sidr-id-menu-item-372" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-372"><a href="https://www.wballoys.co.uk/defence/"><span class="sidr-class-link-inner">Marine</span></a></li>
+	<li id="sidr-id-menu-item-371" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-371"><a href="https://www.wballoys.co.uk/renewables/"><span class="sidr-class-link-inner">Renewables</span></a></li>
+	<li id="sidr-id-menu-item-370" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-370"><a href="https://www.wballoys.co.uk/aerospace/"><span class="sidr-class-link-inner">Power Generation</span></a></li>
+	<li id="sidr-id-menu-item-369" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-current-menu-item sidr-class-page_item sidr-class-page-item-367 sidr-class-current_page_item sidr-class-menu-item-369"><a href="https://www.wballoys.co.uk/construction/"><span class="sidr-class-link-inner">Construction</span></a></li>
+</ul>
+</li>
+<li id="sidr-id-menu-item-1274" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-1274"><a href="https://www.wballoys.co.uk/construction/#" class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Products &amp; Solutions <span class="sidr-class-nav-arrow sidr-class-top-level fa fa-angle-down"></span></span><span class="sidr-class-dropdown-toggle"></span></a>
+<ul class="sidr-class-sub-menu">
+	<li id="sidr-id-menu-item-1400" class="sidr-class-menu-item sidr-class-menu-item-type-custom sidr-class-menu-item-object-custom sidr-class-menu-item-has-children sidr-class-dropdown sidr-class-menu-item-1400"><a class="sidr-class-sf-with-ul"><span class="sidr-class-link-inner">Welding Consumables<span class="sidr-class-nav-arrow sidr-class-second-level fa fa-angle-right"></span></span><span class="sidr-class-dropdown-toggle"></span></a>
+	<ul class="sidr-class-sub-menu">
+		<li id="sidr-id-menu-item-71" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-71"><a href="https://www.wballoys.co.uk/mig-wire/"><span class="sidr-class-link-inner">MIG / Cored Wires</span></a></li>
+		<li id="sidr-id-menu-item-79" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-79"><a href="https://www.wballoys.co.uk/tig-wire/"><span class="sidr-class-link-inner">TIG Wire</span></a></li>
+		<li id="sidr-id-menu-item-72" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-72"><a href="https://www.wballoys.co.uk/mma-electrodes/"><span class="sidr-class-link-inner">MMA ELECTRODES</span></a></li>
+		<li id="sidr-id-menu-item-1141" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-1141"><a href="https://www.wballoys.co.uk/sub-arc/"><span class="sidr-class-link-inner">Sub Arc</span></a></li>
+	</ul>
+</li>
+	<li id="sidr-id-menu-item-231" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-231"><a href="https://www.wballoys.co.uk/welding-machines/"><span class="sidr-class-link-inner">Welding machines</span></a></li>
+	<li id="sidr-id-menu-item-83" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-83"><a href="https://www.wballoys.co.uk/welding-data-loggers/"><span class="sidr-class-link-inner">WELDING &amp; GAS DATA LOGGERS</span></a></li>
+	<li id="sidr-id-menu-item-81" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-81"><a href="https://www.wballoys.co.uk/welding-accessories/"><span class="sidr-class-link-inner">WELDING ACCESSORIES</span></a></li>
+	<li id="sidr-id-menu-item-82" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-82"><a href="https://www.wballoys.co.uk/welding-automation-equipment/"><span class="sidr-class-link-inner">WELDING AUTOMATION</span></a></li>
+	<li id="sidr-id-menu-item-1236" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-1236"><a href="https://www.wballoys.co.uk/pipe-equipment-and-rollers/"><span class="sidr-class-link-inner">Pipe Equipment</span></a></li>
+	<li id="sidr-id-menu-item-962" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-962"><a href="https://www.wballoys.co.uk/metal-heat-treatment-2/"><span class="sidr-class-link-inner">Metal Heat Treatment</span></a></li>
+	<li id="sidr-id-menu-item-74" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-74"><a href="https://www.wballoys.co.uk/plasma-cutting/"><span class="sidr-class-link-inner">PLASMA CUTTING</span></a></li>
+	<li id="sidr-id-menu-item-67" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-67"><a href="https://www.wballoys.co.uk/gas-cutting-equipment/"><span class="sidr-class-link-inner">GAS CUTTING</span></a></li>
+	<li id="sidr-id-menu-item-66" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-66"><a href="https://www.wballoys.co.uk/gas-accessories/"><span class="sidr-class-link-inner">GAS ACCESSORIES</span></a></li>
+	<li id="sidr-id-menu-item-961" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-961"><a href="https://www.wballoys.co.uk/calibrations-gas-fitting/"><span class="sidr-class-link-inner">Calibrations &amp; Gas Testing</span></a></li>
+	<li id="sidr-id-menu-item-76" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-76"><a href="https://www.wballoys.co.uk/safety-equipment/"><span class="sidr-class-link-inner">SAFETY EQUIPMENT</span></a></li>
+	<li id="sidr-id-menu-item-1080" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-1080"><a href="https://www.wballoys.co.uk/fit-up-gear/"><span class="sidr-class-link-inner">Fit Up Gear</span></a></li>
+</ul>
+</li>
+<li id="sidr-id-menu-item-111" class="sidr-class-menu-item sidr-class-menu-item-type-post_type sidr-class-menu-item-object-page sidr-class-menu-item-111"><a href="https://www.wballoys.co.uk/contact/"><span class="sidr-class-link-inner">Contact</span></a></li>
+<li class="sidr-class-woo-menu-icon sidr-class-wpex-menu-extra sidr-class-wcmenucart-toggle-drop_down sidr-class-toggle-cart-widget">
+			
+			<a href="https://www.wballoys.co.uk/basket/" class="sidr-class-wcmenucart sidr-class-wcmenucart-items-0" title="Your Cart">
+				<span class="sidr-class-link-inner">
+					<span class="sidr-class-wcmenucart-count"><span class="sidr-class-wcmenucart-icon fa fa-shopping-cart"></span><span class="sidr-class-wcmenucart-text">Shop</span><span class="sidr-class-wcmenucart-details sidr-class-count">0</span></span>
+				</span>
+			</a>
+			
+		
+			
+		</li></ul>
+			
+		</div><div class="sidr-inner">
+	<form method="get" action="https://www.wballoys.co.uk/" class="sidr-class-mobile-menu-searchform">
+		<input type="search" name="s" autocomplete="off" placeholder="Search">
+				<button type="submit" class="sidr-class-searchform-submit"><span class="fa fa-search"></span></button>
+	</form>
+</div></div></body></html>
